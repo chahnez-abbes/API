@@ -7,7 +7,7 @@
 "last_update":"10/2021",
 "owner_name":"chahnez abbes",
 "city":"Bizerte",
-"price":2850000,
+"price":2850000
   },
   {
 "id":"2",
@@ -17,7 +17,7 @@
 "last_update":"10/2021",
 "owner_name":"chahnez abbes",
 "city":"Bizerte",
-"price":750000,
+"price":750000
   },
   {
 "id":"3",
@@ -27,7 +27,7 @@
 "last_update":"10/2021",
 "owner_name":"bochniba mansour",
 "city":"Bizerte",
-"price":2510000,
+"price":2510000
   },
   {
 "id":"4",
@@ -37,7 +37,7 @@
 "last_update":"10/2021",
 "owner_name":"bochniba mansour",
 "city":"Tunis",
-"price":2000000,
+"price":2000000
   },
   {
 "id":"5",
@@ -47,7 +47,7 @@
 "last_update":"10/2021",
 "owner_name":"hazem hosni",
 "city":"tunis",
-"price":8750000,
+"price":8750000
   },
   {
 "id":"6",
@@ -57,6 +57,6 @@
 "last_update":"10/2021",
 "owner_name":"hazem hosni",
 "city":"Bizerte",
-"price": 9850000,
+"price": 9850000
  }
 ]
