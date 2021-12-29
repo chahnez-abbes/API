@@ -48,15 +48,5 @@
 "owner_name":"hazem hosni",
 "city":"tunis",
 "price":8750000
-  },
-  {
-"id":"6",
-"title":"House for sale , bhira",
-"description":"une villa de maitre de très haut standing une superficie habitable de 1200m² et édifiée sur un terrain de 990m².Le rez-de-chaussée se compose un grand hall entrée, un salon avec des terrasses donnant sur la piscine et le jardin, une salle à manger, une chambre amis, une suite parentale, une salle de bain et deux cuisines entièrement aménagées.",
-"image":"https://github.com/chahnez-abbes/API/blob/d1b9fe7de7ebcbcd293fb77ecc3ec1a34028ab0a/villa6.png",
-"last_update":"10/2021",
-"owner_name":"hazem hosni",
-"city":"Bizerte",
-"price": 9850000
- }
+  }
 ]
