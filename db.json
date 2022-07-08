@@ -3,7 +3,7 @@
   id:'1',
   created_by: {
       name: 'mouhamed saidi',
-      avatar: 'assets/images/avatar.png'
+      avatar: 'assets/images/avatar.png',
   },
   images:[
     'assets/images/products/02-1.png', 
@@ -16,7 +16,7 @@
   tags: [
       'phone',
       'iphone',
-      'reconditionnéé'
+      'reconditionnéé',
   ],
   fiche:{
     ecran:'5.71 HD',
@@ -31,7 +31,7 @@
   id:'2',
   created_by: {
       name: 'med amine jmini',
-      avatar: 'assets/images/avatar.png'
+      avatar: 'assets/images/avatar.png',
   },
   images:[
     'assets/images/products/01-1.png', 
@@ -44,7 +44,7 @@
   tags: [
       'pc',
       'pc portable',
-      'asus'
+      'asus',
   ],
   fiche:{
     ecran:'5.71 HD',
@@ -59,7 +59,7 @@
   id:'3',
   created_by: {
       name: 'chahinez abbes',
-      avatar: 'assets/images/avatar.png'
+      avatar: 'assets/images/avatar.png',
   },
   images:[
     'assets/images/products/03-1.png', 
@@ -72,7 +72,7 @@
   tags: [
       'gaming',
       'tuff',
-      'reconditionnée'
+      'reconditionnée',
   ],
   fiche:{
     ecran:'0',
@@ -87,7 +87,7 @@
   id:'1',
   created_by: {
       name: 'mouhamed saidi',
-      avatar: 'assets/images/avatar.png'
+      avatar: 'assets/images/avatar.png',
   },
   images:[
     'assets/images/products/02-1.png', 
@@ -100,7 +100,7 @@
   tags: [
       'phone',
       'iphone',
-      'reconditionnéé'
+      'reconditionnéé',
   ],
   fiche:{
     ecran:'5.71 HD',
@@ -115,7 +115,7 @@
   id:'1',
   created_by: {
       name: 'mouhamed saidi',
-      avatar: 'assets/images/avatar.png'
+      avatar: 'assets/images/avatar.png',
   },
   images:[
     'assets/images/products/02-1.png', 
@@ -128,7 +128,7 @@
   tags: [
       'phone',
       'iphone',
-      'reconditionnéé'
+      'reconditionnéé',
   ],
   fiche:{
     ecran:'5.71 HD',
