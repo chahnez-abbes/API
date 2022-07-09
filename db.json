@@ -1,142 +1,142 @@
 [
 {
-  id:'1',
-  created_by: {
-      name: 'mouhamed saidi',
-      avatar: 'assets/images/avatar.png',
+  "id":"1",
+  "created_by": {
+      "name": "mouhamed saidi",
+      "avatar": "assets/images/avatar.png",
   },
-  images:[
-    'assets/images/products/02-1.png', 
-    'assets/images/products/02-2.png', 'assets/images/products/02-3.png'],
-  name: 'Iphone 8+',
-  price: 700.000,
-  rating: 4.8,
-  feedback: 3,
-  category: 'phones',
+ " images":[
+    "assets/images/products/02-1.png", 
+    "assets/images/products/02-2.png", "assets/images/products/02-3.png"],
+  "name": "Iphone 8+",
+  "price": "700.000",
+  "rating": "4.8",
+  "feedback": "3",
+  "category": "phones",
   tags: [
-      'phone',
-      'iphone',
-      'reconditionnéé',
+      "phone",
+      "iphone",
+      "reconditionnéé",
   ],
-  fiche:{
-    ecran:'5.71 HD',
-    processeur: 'Appel A8 Bionic Octa-core',
-   se: 'IOS8',
-   ram: '8GO', 
-   stockage: '64GO', 
-   autres: ['Appareil photo: double 12mp','Bleutooth 5.0'],
+  "fiche":{
+    "ecran":"5.71 HD",
+   "processeur": "Appel A8 Bionic Octa-core",
+   "se": "IOS8",
+   "ram": "8GO", 
+   "stockage": "64GO", 
+   "autres": ["Appareil photo: double 12mp","Bleutooth 5.0"],
   
   }
 },{
-  id:'2',
-  created_by: {
-      name: 'med amine jmini',
-      avatar: 'assets/images/avatar.png',
+  "id":"2",
+  "created_by": {
+      "name": "med amine jmini",
+      "avatar": "assets/images/avatar.png",
   },
-  images:[
-    'assets/images/products/01-1.png', 
-    'assets/images/products/01-2.png', 'assets/images/products/02-3.png'],
-  name: 'pc portable asus',
-  price: 800.000,
-  rating: 4.1,
-  feedback: 3,
-  category: 'laptop',
-  tags: [
-      'pc',
-      'pc portable',
-      'asus',
+  "images":[
+    "assets/images/products/01-1.png", 
+    "assets/images/products/01-2.png", "assets/images/products/02-3.png"],
+  "name": "pc portable asus",
+  "price": 800.000,
+  "rating": 4.1,
+  "feedback": 3,
+  "category": 'laptop',
+  "tags": [
+      "pc",
+      "pc portable",
+      "asus",
   ],
-  fiche:{
-    ecran:'5.71 HD',
-    processeur: 'i5',
-   se: 'windows 10',
-   ram: '8GO', 
-   stockage: '250GO SSD', 
-   autres: ['Graphique nvidia','Bleutooth 5.0','usb2 , usb3'],
+  "fiche":{
+    "ecran":"5.71 HD",
+    "processeur": "i5",
+   "se": '"windows 10",
+   "ram": "8GO", 
+   "stockage": "250GO SSD", 
+  "autres": ["Graphique nvidia","Bleutooth 5.0","usb2" , "usb3"],
   
   }
 },{
-  id:'3',
-  created_by: {
-      name: 'chahinez abbes',
-      avatar: 'assets/images/avatar.png',
+  "id":"3",
+  "created_by": {
+      "name": "chahinez abbes",
+      "avatar": "assets/images/avatar.png",
   },
-  images:[
-    'assets/images/products/03-1.png', 
-    'assets/images/products/03-1.png', 'assets/images/products/03-1.png'],
-  name: 'gamin products',
-  price: 1700.000,
-  rating: 4.8,
-  feedback: 3,
-  category: 'accesoire',
-  tags: [
-      'gaming',
-      'tuff',
-      'reconditionnée',
+  "images":[
+    "assets/images/products/03-1.png", 
+    "assets/images/products/03-1.png", "assets/images/products/03-1.png"],
+  "name": "gamin products",
+  "price": 1700.000,
+  "rating": 4.8,
+  "feedback": 3,
+  "category": 'accesoire',
+  "tags": [
+      "gaming",
+      "tuff",
+      "reconditionnée",
   ],
-  fiche:{
-    ecran:'0',
-    processeur: '0',
-   se: '0',
-   ram: '0', 
-   stockage: '64GO', 
-   autres: ['Appareil photo: double 12mp','Bleutooth 5.0'],
+  "fiche":{
+    "ecran":"0",
+    "processeur": "0",
+   "s": "0",
+   "ram": "0", 
+   "stockage": "64GO", 
+   "autres": ["Appareil photo: double 12mp","Bleutooth 5.0"],
   
   }
 },{
-  id:'1',
-  created_by: {
-      name: 'mouhamed saidi',
-      avatar: 'assets/images/avatar.png',
+  "id":"1",
+  "created_by": {
+      "name": "mouhamed saidi",
+      "avatar": "assets/images/avatar.png",
   },
-  images:[
-    'assets/images/products/02-1.png', 
-    'assets/images/products/02-2.png', 'assets/images/products/02-3.png'],
-  name: 'Iphone 8+',
-  price: 700.000,
-  rating: 4.8,
-  feedback: 3,
-  category: 'phones',
-  tags: [
-      'phone',
-      'iphone',
-      'reconditionnéé',
+  "images":[
+    "assets/images/products/02-1.png", 
+    "assets/images/products/02-2.png", "assets/images/products/02-3.png"],
+  "name": "Iphone 8+",
+  "price": 700.000,
+  "rating": 4.8,
+  "feedback": 3,
+  "category": "phones",
+  "tags": [
+      "phone",
+      "iphone",
+      "reconditionnéé",
   ],
-  fiche:{
-    ecran:'5.71 HD',
-    processeur: 'Appel A8 Bionic Octa-core',
-   se: 'IOS8',
-   ram: '8GO', 
-   stockage: '64GO', 
-   autres: ['Appareil photo: double 12mp','Bleutooth 5.0'],
+  "fiche":{
+    "ecran":"5.71 HD",
+    "processeur": "appel A8 Bionic Octa-core",
+   "se": "IOS8",
+   "ram": "8GO", 
+   "stockage": "64GO", 
+   "autres": ["Appareil photo: double 12mp','Bleutooth 5.0"],
   
   }
 },{
-  id:'1',
-  created_by: {
-      name: 'mouhamed saidi',
-      avatar: 'assets/images/avatar.png',
+  "id":"1",
+  "created_by": {
+      "name": "mouhamed saidi",
+      "avatar": "assets/images/avatar.png",
   },
-  images:[
-    'assets/images/products/02-1.png', 
-    'assets/images/products/02-2.png', 'assets/images/products/02-3.png'],
-  name: 'Iphone 8+',
-  price: 700.000,
-  rating: 4.8,
-  feedback: 3,
-  category: 'phones',
-  tags: [
-      'phone',
-      'iphone',
-      'reconditionnéé',
+  "images":[
+    "assets/images/products/02-1.png", 
+    "assets/images/products/02-2.png", "assets/images/products/02-3.png"],
+  "name": "Iphone 8+",
+  "price": 700.000,
+  "rating": 4.8,
+  "feedback": 3,
+  "category": "phones",
+  "tags": [
+      "phone",
+      "iphone",
+      "reconditionnéé",
   ],
-  fiche:{
-    ecran:'5.71 HD',
-    processeur: 'Appel A8 Bionic Octa-core',
-   se: 'IOS8',
-   ram: '8GO', 
-   stockage: '64GO', 
-   autres: ['Appareil photo: double 12mp','Bleutooth 5.0'],
+  "fiche":{
+    "ecran":"5.71 HD",
+    "processeur": "appel A8 Bionic Octa-core",
+   "se": "IOS8",
+   "ram": "8GO", 
+   "stockage": "64GO", 
+   "autres": ["Appareil photo: double 12mp','Bleutooth 5.0"],
   
   }
 }
