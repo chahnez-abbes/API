@@ -3,7 +3,7 @@
   "id":"1",
   "created_by": {
       "name": "mouhamed saidi",
-      "avatar": "assets/images/avatar.png",
+      "avatar": "assets/images/avatar.png"
   },
  " images":[
     "assets/images/products/02-1.png", 
@@ -16,7 +16,7 @@
   "tags": [
       "phone",
       "iphone",
-      "reconditionnéé",
+      "reconditionnéé"
   ],
   "fiche":{
     "ecran":"5.71 HD",
@@ -24,14 +24,14 @@
    "se": "IOS8",
    "ram": "8GO", 
    "stockage": "64GO", 
-   "autres": ["Appareil photo: double 12mp","Bleutooth 5.0"],
+   "autres": ["Appareil photo: double 12mp","Bleutooth 5.0"]
   
   }
 },{
   "id":"2",
   "created_by": {
       "name": "med amine jmini",
-      "avatar": "assets/images/avatar.png",
+      "avatar": "assets/images/avatar.png"
   },
   "images":[
     "assets/images/products/01-1.png", 
@@ -44,7 +44,7 @@
   "tags": [
       "pc",
       "pc portable",
-      "asus",
+      "asus"
   ],
   "fiche":{
     "ecran":"5.71 HD",
@@ -52,14 +52,14 @@
    "se": "windows 10",
    "ram": "8GO", 
    "stockage": "250GO SSD", 
-  "autres": ["Graphique nvidia","Bleutooth 5.0","usb2" , "usb3"],
+  "autres": ["Graphique nvidia","Bleutooth 5.0","usb2" , "usb3"]
   
   }
 },{
   "id":"3",
   "created_by": {
       "name": "chahinez abbes",
-      "avatar": "assets/images/avatar.png",
+      "avatar": "assets/images/avatar.png"
   },
   "images":[
     "assets/images/products/03-1.png", 
@@ -72,7 +72,7 @@
   "tags": [
       "gaming",
       "tuff",
-      "reconditionnée",
+      "reconditionnée"
   ],
   "fiche":{
     "ecran":"0",
@@ -80,14 +80,14 @@
    "se": "0",
    "ram": "0", 
    "stockage": "64GO", 
-   "autres": ["Appareil photo: double 12mp","Bleutooth 5.0"],
+   "autres": ["Appareil photo: double 12mp","Bleutooth 5.0"]
   
   }
 },{
   "id":"1",
   "created_by": {
       "name": "mouhamed saidi",
-      "avatar": "assets/images/avatar.png",
+      "avatar": "assets/images/avatar.png"
   },
   "images":[
     "assets/images/products/02-1.png", 
@@ -100,7 +100,7 @@
   "tags": [
       "phone",
       "iphone",
-      "reconditionnéé",
+      "reconditionnéé"
   ],
   "fiche":{
     "ecran":"5.71 HD",
@@ -108,13 +108,13 @@
    "se": "IOS8",
    "ram": "8GO", 
    "stockage": "64GO", 
-   "autres": ["Appareil photo: double 12mp","Bleutooth 5.0"], }
+   "autres": ["Appareil photo: double 12mp","Bleutooth 5.0"] }
 },
 {
   "id":"1",
   "created_by": {
       "name": "mouhamed saidi",
-      "avatar": "assets/images/avatar.png",
+      "avatar": "assets/images/avatar.png"
   },
   "images":[
     "assets/images/products/02-1.png", 
@@ -127,7 +127,7 @@
   "tags": [
       "phone",
       "iphone",
-      "reconditionnéé",
+      "reconditionnéé"
   ],
   "fiche":{
     "ecran":"5.71 HD",
@@ -135,7 +135,7 @@
    "se": "IOS8",
    "ram": "8GO", 
    "stockage": "64GO", 
-   "autres": ["Appareil photo: double 12mp","Bleutooth 5.0"],
+   "autres": ["Appareil photo: double 12mp","Bleutooth 5.0"]
   
   }
 }
