@@ -6,9 +6,10 @@
         "name": "mouhamed saidi",
         "avatar": "assets/images/avatar.png"
       },
-      " images": [
-        "https://www.apple.com/newsroom/images/product/iphone/standard/8plus_and_8_glass_back_big.jpg.large.jpg",
-        ""
+        "images": [
+        "assets/images/products/01-1.png",
+        "assets/images/products/01-2.png",
+        "assets/images/products/02-3.png"
       ],
       "name": "Iphone 8+",
       "price": 700,
